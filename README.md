@@ -12,3 +12,17 @@ It made request to the [Free Epic Games API](https://free-epic-games.p.rapidapi.
 - [Flutter DotEnv](https://pub.dev/packages/flutter_dotenv): To load configuration at runtime from a `.env` file.
 - [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter): To use some icons from there.
 - [Google Fonts](https://pub.dev/packages/google_fonts): All the text widgets in the app use the Titillium Web family font. 
+
+## Screenshots
+
+**Home Screen - Current Games**
+
+[Home Screen - Current Games](screenshots/home_screen_0.png)
+
+**Home Screen - Upcoming Games**
+
+[Home Screen - Current Games](screenshots/home_screen_1.png)
+
+**Game Detail Screen**
+
+[Home Screen - Current Games](screenshots/game_detail_screen.png)
