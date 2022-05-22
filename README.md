@@ -1,16 +1,14 @@
-# epic_free
+# Epic Free
 
-A new Flutter project.
+Flutter to get the most recent and upcoming free available games from the Epic Games' store.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+It made request to the [Free Epic Games API](https://free-epic-games.p.rapidapi.com/free)
 
-A few resources to get you started if this is your first Flutter project:
+## It makes use of the following packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [JsonSerializable](https://pub.dev/packages/json_serializable): To generate the encode & decode methods for a class.
+- [Flutter DotEnv](https://pub.dev/packages/flutter_dotenv): To load configuration at runtime from a `.env` file.
+- [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter): To use some icons from there.
+- [Google Fonts](https://pub.dev/packages/google_fonts): All the text widgets in the app use the Titillium Web family font. 
