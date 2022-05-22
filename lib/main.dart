@@ -17,7 +17,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Travel UI',
+      title: 'Epic Free',
       theme: ThemeData(
         primaryColor: Palette.tintColor,
         colorScheme: Theme.of(context).colorScheme.copyWith(secondary: Palette.secondaryColor),
